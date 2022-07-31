@@ -1,0 +1,13 @@
+{
+    "token": "TOKEN DO BOT AQUI",
+    
+    "prefix": "PREFIXO DO BOT AQUI",
+    
+    "idserver": "ID DO SERVIDOR QUE O BOT TA ",
+
+    "categoria": "CATEOGRIA QUE VAI ABRIR O TICKET",
+    "logticket": "CANAL DE LOGS DE TICKET",
+
+    "permticket1": "CARGO STAFF 1",
+    "permticket2": "CARGO STAFF 2"
+}
